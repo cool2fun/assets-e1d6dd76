@@ -1,0 +1,1971 @@
+{
+  "name": "Sling Tomb",
+  "slug": "sling-tomb",
+  "entryUrl": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/index.html",
+  "capturedAt": "2026-07-22T10:21:15.133Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/index.html",
+      "file": "index.html",
+      "bytes": 4826,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/jquery-3.4.1.min.js",
+      "file": "jquery-3.4.1.min.js",
+      "bytes": 88145,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/c2runtime.js",
+      "file": "c2runtime.js",
+      "bytes": 1212619,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/offlineClient.js",
+      "file": "offlineClient.js",
+      "bytes": 1434,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/data.js",
+      "file": "data.js",
+      "bytes": 1252353,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gametittle-sheet0.png",
+      "file": "images/gametittle-sheet0.png",
+      "bytes": 37800,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/loading-logo.png",
+      "file": "loading-logo.png",
+      "bytes": 11454,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shopcoinui-sheet0.png",
+      "file": "images/shopcoinui-sheet0.png",
+      "bytes": 7908,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/soundui-sheet0.png",
+      "file": "images/soundui-sheet0.png",
+      "bytes": 8471,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/fadescreen-sheet0.png",
+      "file": "images/fadescreen-sheet0.png",
+      "bytes": 3424,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/tnteffect-sheet1.png",
+      "file": "images/tnteffect-sheet1.png",
+      "bytes": 76159,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/tnteffect-sheet2.png",
+      "file": "images/tnteffect-sheet2.png",
+      "bytes": 4332,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/pinnerpick1-sheet0.png",
+      "file": "images/pinnerpick1-sheet0.png",
+      "bytes": 4203,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rotatescreen-sheet0.png",
+      "file": "images/rotatescreen-sheet0.png",
+      "bytes": 22038,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/arms1-sheet0.png",
+      "file": "images/arms1-sheet0.png",
+      "bytes": 4039,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gameplayer-sheet0.png",
+      "file": "images/gameplayer-sheet0.png",
+      "bytes": 1429,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/arms1-sheet1.png",
+      "file": "images/arms1-sheet1.png",
+      "bytes": 4354,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/arms2-sheet0.png",
+      "file": "images/arms2-sheet0.png",
+      "bytes": 7727,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/arms2-sheet1.png",
+      "file": "images/arms2-sheet1.png",
+      "bytes": 6330,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/playerskin1-sheet0.png",
+      "file": "images/playerskin1-sheet0.png",
+      "bytes": 24382,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/playerskin2-sheet1.png",
+      "file": "images/playerskin2-sheet1.png",
+      "bytes": 18981,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gamecamera-sheet0.png",
+      "file": "images/gamecamera-sheet0.png",
+      "bytes": 156,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/playerskin1-sheet1.png",
+      "file": "images/playerskin1-sheet1.png",
+      "bytes": 23640,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gamebackground.png",
+      "file": "images/gamebackground.png",
+      "bytes": 22995,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/playerskin2-sheet0.png",
+      "file": "images/playerskin2-sheet0.png",
+      "bytes": 23864,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shopbutton-sheet0.png",
+      "file": "images/shopbutton-sheet0.png",
+      "bytes": 17925,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rewardsbutton-sheet0.png",
+      "file": "images/rewardsbutton-sheet0.png",
+      "bytes": 15337,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rewardsbutton-sheet1.png",
+      "file": "images/rewardsbutton-sheet1.png",
+      "bytes": 14718,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/coinui-sheet0.png",
+      "file": "images/coinui-sheet0.png",
+      "bytes": 7371,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/mainpillar-sheet0.png",
+      "file": "images/mainpillar-sheet0.png",
+      "bytes": 5988,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/coinfontgame.png",
+      "file": "images/coinfontgame.png",
+      "bytes": 8826,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/grass3-sheet0.png",
+      "file": "images/grass3-sheet0.png",
+      "bytes": 10566,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/grass1-sheet0.png",
+      "file": "images/grass1-sheet0.png",
+      "bytes": 10944,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/grass2-sheet0.png",
+      "file": "images/grass2-sheet0.png",
+      "bytes": 9075,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/lighteffect-sheet0.png",
+      "file": "images/lighteffect-sheet0.png",
+      "bytes": 42109,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/tnteffect-sheet0.png",
+      "file": "images/tnteffect-sheet0.png",
+      "bytes": 99431,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/waterbackground-sheet0.png",
+      "file": "images/waterbackground-sheet0.png",
+      "bytes": 1356,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/playerparticles.png",
+      "file": "images/playerparticles.png",
+      "bytes": 359,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/enemyblade1-sheet0.png",
+      "file": "images/enemyblade1-sheet0.png",
+      "bytes": 11699,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/jumpeffect-sheet1.png",
+      "file": "images/jumpeffect-sheet1.png",
+      "bytes": 73173,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/collitionbox1-sheet0.png",
+      "file": "images/collitionbox1-sheet0.png",
+      "bytes": 156,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/diamonditem-sheet0.png",
+      "file": "images/diamonditem-sheet0.png",
+      "bytes": 4565,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/bloodparticles.png",
+      "file": "images/bloodparticles.png",
+      "bytes": 632,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/diamondparticles.png",
+      "file": "images/diamondparticles.png",
+      "bytes": 3690,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/wheelfire1-sheet0.png",
+      "file": "images/wheelfire1-sheet0.png",
+      "bytes": 17143,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/coin1-sheet0.png",
+      "file": "images/coin1-sheet0.png",
+      "bytes": 4010,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/wallbrick-sheet0.png",
+      "file": "images/wallbrick-sheet0.png",
+      "bytes": 4028,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/wallenemy1-sheet0.png",
+      "file": "images/wallenemy1-sheet0.png",
+      "bytes": 3313,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/sidewallcone-sheet0.png",
+      "file": "images/sidewallcone-sheet0.png",
+      "bytes": 7009,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/bubbleparticles.png",
+      "file": "images/bubbleparticles.png",
+      "bytes": 976,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gameoverbuttons-sheet0.png",
+      "file": "images/gameoverbuttons-sheet0.png",
+      "bytes": 27822,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/bestscorefont.png",
+      "file": "images/bestscorefont.png",
+      "bytes": 8826,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/fadegameover-sheet0.png",
+      "file": "images/fadegameover-sheet0.png",
+      "bytes": 169,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gameoverscorefont.png",
+      "file": "images/gameoverscorefont.png",
+      "bytes": 8826,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/jumpeffect-sheet2.png",
+      "file": "images/jumpeffect-sheet2.png",
+      "bytes": 7055,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/jumpeffect-sheet0.png",
+      "file": "images/jumpeffect-sheet0.png",
+      "bytes": 88898,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/pinballs1-sheet1.png",
+      "file": "images/pinballs1-sheet1.png",
+      "bytes": 3664,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/fireeffect1-sheet0.png",
+      "file": "images/fireeffect1-sheet0.png",
+      "bytes": 122286,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/fireeffect1-sheet1.png",
+      "file": "images/fireeffect1-sheet1.png",
+      "bytes": 35019,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/fireeffect1-sheet2.png",
+      "file": "images/fireeffect1-sheet2.png",
+      "bytes": 34299,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/arrowstick-sheet0.png",
+      "file": "images/arrowstick-sheet0.png",
+      "bytes": 3899,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/fireeffect1-sheet3.png",
+      "file": "images/fireeffect1-sheet3.png",
+      "bytes": 16199,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/cannonbow-sheet0.png",
+      "file": "images/cannonbow-sheet0.png",
+      "bytes": 6534,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/wheelfire2-sheet0.png",
+      "file": "images/wheelfire2-sheet0.png",
+      "bytes": 16785,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/cannonbow2-sheet0.png",
+      "file": "images/cannonbow2-sheet0.png",
+      "bytes": 7369,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/boosteritem-sheet0.png",
+      "file": "images/boosteritem-sheet0.png",
+      "bytes": 23941,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/itemeffect-sheet0.png",
+      "file": "images/itemeffect-sheet0.png",
+      "bytes": 43868,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketdash-sheet0.png",
+      "file": "images/rocketdash-sheet0.png",
+      "bytes": 89732,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketeffect4.png",
+      "file": "images/rocketeffect4.png",
+      "bytes": 3807,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketeffect7.png",
+      "file": "images/rocketeffect7.png",
+      "bytes": 3807,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketeffect5.png",
+      "file": "images/rocketeffect5.png",
+      "bytes": 3807,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/tutorial-sheet0.png",
+      "file": "images/tutorial-sheet0.png",
+      "bytes": 9066,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/limiter-sheet0.png",
+      "file": "images/limiter-sheet0.png",
+      "bytes": 156,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/sidewallbackground2.png",
+      "file": "images/sidewallbackground2.png",
+      "bytes": 7647,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/pillarobstacle-sheet0.png",
+      "file": "images/pillarobstacle-sheet0.png",
+      "bytes": 17982,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/sidewallbackground.png",
+      "file": "images/sidewallbackground.png",
+      "bytes": 4117,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/blockparticles1.png",
+      "file": "images/blockparticles1.png",
+      "bytes": 1956,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/halfwallspin-sheet0.png",
+      "file": "images/halfwallspin-sheet0.png",
+      "bytes": 13517,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/slingsbackground-sheet0.png",
+      "file": "images/slingsbackground-sheet0.png",
+      "bytes": 1556,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/pinnerpickred-sheet0.png",
+      "file": "images/pinnerpickred-sheet0.png",
+      "bytes": 4215,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/pinnerpickred-sheet1.png",
+      "file": "images/pinnerpickred-sheet1.png",
+      "bytes": 2476,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gamescorefont.png",
+      "file": "images/gamescorefont.png",
+      "bytes": 8530,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/gameoverscreen-sheet0.png",
+      "file": "images/gameoverscreen-sheet0.png",
+      "bytes": 90514,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shieldeffect-sheet0.png",
+      "file": "images/shieldeffect-sheet0.png",
+      "bytes": 27960,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/smokeeffect-sheet0.png",
+      "file": "images/smokeeffect-sheet0.png",
+      "bytes": 107004,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/coinparticles.png",
+      "file": "images/coinparticles.png",
+      "bytes": 7448,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/pinballs1-sheet0.png",
+      "file": "images/pinballs1-sheet0.png",
+      "bytes": 12999,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/enemyarrow-sheet0.png",
+      "file": "images/enemyarrow-sheet0.png",
+      "bytes": 5458,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/itemeffect-sheet1.png",
+      "file": "images/itemeffect-sheet1.png",
+      "bytes": 397,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketdash-sheet1.png",
+      "file": "images/rocketdash-sheet1.png",
+      "bytes": 59922,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketeffect3.png",
+      "file": "images/rocketeffect3.png",
+      "bytes": 405,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketeffect2.png",
+      "file": "images/rocketeffect2.png",
+      "bytes": 513,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shieldeffect-sheet1.png",
+      "file": "images/shieldeffect-sheet1.png",
+      "bytes": 27373,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shoptittle-sheet0.png",
+      "file": "images/shoptittle-sheet0.png",
+      "bytes": 8780,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shopslings-sheet0.png",
+      "file": "images/shopslings-sheet0.png",
+      "bytes": 15974,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shopwalls-sheet0.png",
+      "file": "images/shopwalls-sheet0.png",
+      "bytes": 27773,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn2-sheet0.png",
+      "file": "images/skinbtn2-sheet0.png",
+      "bytes": 5715,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shopuibuttons-sheet0.png",
+      "file": "images/shopuibuttons-sheet0.png",
+      "bytes": 24388,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn1-sheet0.png",
+      "file": "images/skinbtn1-sheet0.png",
+      "bytes": 8482,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn4-sheet0.png",
+      "file": "images/skinbtn4-sheet0.png",
+      "bytes": 5000,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn3-sheet1.png",
+      "file": "images/skinbtn3-sheet1.png",
+      "bytes": 8966,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn3-sheet0.png",
+      "file": "images/skinbtn3-sheet0.png",
+      "bytes": 5688,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn5-sheet0.png",
+      "file": "images/skinbtn5-sheet0.png",
+      "bytes": 5322,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn4-sheet1.png",
+      "file": "images/skinbtn4-sheet1.png",
+      "bytes": 6723,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn6-sheet1.png",
+      "file": "images/skinbtn6-sheet1.png",
+      "bytes": 7027,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn8-sheet1.png",
+      "file": "images/skinbtn8-sheet1.png",
+      "bytes": 8469,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn5-sheet1.png",
+      "file": "images/skinbtn5-sheet1.png",
+      "bytes": 8873,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/price1-sheet0.png",
+      "file": "images/price1-sheet0.png",
+      "bytes": 7935,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/price3-sheet0.png",
+      "file": "images/price3-sheet0.png",
+      "bytes": 7967,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/shoppins-sheet0.png",
+      "file": "images/shoppins-sheet0.png",
+      "bytes": 3367,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn2-sheet1.png",
+      "file": "images/skinbtn2-sheet1.png",
+      "bytes": 8102,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn6-sheet0.png",
+      "file": "images/skinbtn6-sheet0.png",
+      "bytes": 4010,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn8-sheet0.png",
+      "file": "images/skinbtn8-sheet0.png",
+      "bytes": 5075,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/rocketeffect1.png",
+      "file": "images/rocketeffect1.png",
+      "bytes": 1011,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/price6-sheet0.png",
+      "file": "images/price6-sheet0.png",
+      "bytes": 4943,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn7-sheet0.png",
+      "file": "images/skinbtn7-sheet0.png",
+      "bytes": 5403,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/playbutton-sheet0.png",
+      "file": "images/playbutton-sheet0.png",
+      "bytes": 156,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/moregamesshop-sheet0.png",
+      "file": "images/moregamesshop-sheet0.png",
+      "bytes": 156,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/companylogo-sheet0.png",
+      "file": "images/companylogo-sheet0.png",
+      "bytes": 18352,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/icon-256.png",
+      "file": "icon-256.png",
+      "bytes": 105696,
+      "status": 200,
+      "type": "other",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/enemybox-sheet0.png",
+      "file": "images/enemybox-sheet0.png",
+      "bytes": 5037,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/coinparticles2.png",
+      "file": "images/coinparticles2.png",
+      "bytes": 3732,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/touchtoplaybtn-sheet0.png",
+      "file": "images/touchtoplaybtn-sheet0.png",
+      "bytes": 2879,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/aimarrow-sheet0.png",
+      "file": "images/aimarrow-sheet0.png",
+      "bytes": 720,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/images/skinbtn7-sheet1.png",
+      "file": "images/skinbtn7-sheet1.png",
+      "bytes": 8546,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/wow.ogg",
+      "file": "media/wow.ogg",
+      "bytes": 10445,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/diamond.ogg",
+      "file": "media/diamond.ogg",
+      "bytes": 11098,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/gamebuttons.ogg",
+      "file": "media/gamebuttons.ogg",
+      "bytes": 5160,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/pinball1.ogg",
+      "file": "media/pinball1.ogg",
+      "bytes": 12198,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/pinball2.ogg",
+      "file": "media/pinball2.ogg",
+      "bytes": 10974,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/pinball3.ogg",
+      "file": "media/pinball3.ogg",
+      "bytes": 9815,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/fly1.ogg",
+      "file": "media/fly1.ogg",
+      "bytes": 8792,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/fly2.ogg",
+      "file": "media/fly2.ogg",
+      "bytes": 7892,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/fly3.ogg",
+      "file": "media/fly3.ogg",
+      "bytes": 12718,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/die1.ogg",
+      "file": "media/die1.ogg",
+      "bytes": 11316,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/die2.ogg",
+      "file": "media/die2.ogg",
+      "bytes": 10630,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/die3.ogg",
+      "file": "media/die3.ogg",
+      "bytes": 12317,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/die4.ogg",
+      "file": "media/die4.ogg",
+      "bytes": 12155,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/shopmusic.ogg",
+      "file": "media/shopmusic.ogg",
+      "bytes": 94904,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/gameplaymusic.ogg",
+      "file": "media/gameplaymusic.ogg",
+      "bytes": 101859,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/reward.ogg",
+      "file": "media/reward.ogg",
+      "bytes": 24951,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/water.ogg",
+      "file": "media/water.ogg",
+      "bytes": 28836,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/fire.ogg",
+      "file": "media/fire.ogg",
+      "bytes": 18638,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/unlockshop2.ogg",
+      "file": "media/unlockshop2.ogg",
+      "bytes": 18396,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/picked.ogg",
+      "file": "media/picked.ogg",
+      "bytes": 4872,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/explosion.ogg",
+      "file": "media/explosion.ogg",
+      "bytes": 14239,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/unlockshop1.ogg",
+      "file": "media/unlockshop1.ogg",
+      "bytes": 21178,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/bounce2.ogg",
+      "file": "media/bounce2.ogg",
+      "bytes": 9144,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/bounce1.ogg",
+      "file": "media/bounce1.ogg",
+      "bytes": 6083,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/arrowsound.ogg",
+      "file": "media/arrowsound.ogg",
+      "bytes": 6434,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/sling.ogg",
+      "file": "media/sling.ogg",
+      "bytes": 7576,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/epictittle.ogg",
+      "file": "media/epictittle.ogg",
+      "bytes": 61671,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/gameover.ogg",
+      "file": "media/gameover.ogg",
+      "bytes": 21747,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/coin.ogg",
+      "file": "media/coin.ogg",
+      "bytes": 10286,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/boosteffect.ogg",
+      "file": "media/boosteffect.ogg",
+      "bytes": 30732,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/pillarstone.ogg",
+      "file": "media/pillarstone.ogg",
+      "bytes": 47668,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/redalert.ogg",
+      "file": "media/redalert.ogg",
+      "bytes": 19151,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/menuwish.ogg",
+      "file": "media/menuwish.ogg",
+      "bytes": 7804,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/arrowhit.ogg",
+      "file": "media/arrowhit.ogg",
+      "bytes": 6234,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/voice2.ogg",
+      "file": "media/voice2.ogg",
+      "bytes": 7688,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/voice3.ogg",
+      "file": "media/voice3.ogg",
+      "bytes": 6737,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/blood.ogg",
+      "file": "media/blood.ogg",
+      "bytes": 12568,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/menumusic.ogg",
+      "file": "media/menumusic.ogg",
+      "bytes": 183658,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/shieldeffect.ogg",
+      "file": "media/shieldeffect.ogg",
+      "bytes": 21722,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/voice4.ogg",
+      "file": "media/voice4.ogg",
+      "bytes": 6155,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/coinpowerup.ogg",
+      "file": "media/coinpowerup.ogg",
+      "bytes": 20842,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/playbutton.ogg",
+      "file": "media/playbutton.ogg",
+      "bytes": 25318,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/magneteffect.ogg",
+      "file": "media/magneteffect.ogg",
+      "bytes": 15274,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/media/voice1.ogg",
+      "file": "media/voice1.ogg",
+      "bytes": 7357,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/ogg"
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "file": "_external/html5.api.gamedistribution.com/main.min.js",
+      "bytes": 648851,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://game.api.gamedistribution.com/game/v4/get/d7b785e3112f427aaffb4530bd608961/?domain=html5.gamedistribution.com&v=1.43.58&engn=Windows&localTime=17",
+      "file": "_external/game.api.gamedistribution.com/game/v4/get/d7b785e3112f427aaffb4530bd608961/index.html",
+      "bytes": 5785,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiZG9tbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwicmZyciI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjEvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IlNsaW5nIFRvbWIiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJDaHJvbWUiLCJicm1qIjoiMTM4Iiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjp0cnVlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOnRydWUsImNtcGUiOmZhbHNlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20ifV0%3D&ts=1784715657788",
+      "file": "_external/msgrt.gamedistribution.com/collect",
+      "bytes": 2,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "file": "_external/cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "bytes": 52854,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "file": "_external/pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "bytes": 38792,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=html5.gamedistribution.com",
+      "file": "_external/hb.improvedigital.com/pbw/headerlift.min.js",
+      "bytes": 204786,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "file": "_external/hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "bytes": 615045,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "file": "_external/cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "bytes": 106043,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "file": "_external/cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "bytes": 13413,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwcyUzQSUyRiUyRmh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tJTJGcnZ2QVNNaU0lMkZkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJkcHRoIjowLCJhcmdzIjp7ImdpZCI6InNsaW5nLXRvbWIiLCJtZDUiOiJkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSIsInBpZCI6MCwicG5tIjoiU3BpbCBHYW1lcyIsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tL3J2dkFTTWlNL2Q3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxL2luZGV4Lmh0bWwiLCJkZXB0aCI6eyJ2YWx1ZSI6MH0sInRvcCI6eyJkb21haW4iOnsiZnJvbSI6InNlbGYtdG9wIiwidmFsdWUiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tL3J2dkFTTWlNL2Q3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX19LCJ1YSI6eyJicm5tIjoiQ2hyb21lIiwiYnJ2cyI6IjEzOCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2cyI6IjEwIiwidyI6MTI4MCwiaCI6NzA0fX0%3D",
+      "file": "_external/tag.atom.gamedistribution.com/v1/dmp",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://pub.headerlift.com/opphb?page_url=html5.gamedistribution.com&page_type=gd&page_width=1280&aid=d7b785e3112f427aaffb4530bd608961",
+      "file": "_external/pub.headerlift.com/opphb",
+      "bytes": 6741,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=1551358257.1784715659&gtm=45je67k1v9165161826za200zd9165161826&rcb=9&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616985~115938466~115938469~118897920~118897930~119527020~119724321~119773332~119896803&z=1139487267",
+      "file": "_external/www.google.com.vn/ads/ga-audiences",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://s0.2mdn.net/instream/video/client.js",
+      "file": "_external/s0.2mdn.net/instream/video/client.js",
+      "bytes": 44701,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/atm?ar=eyJpZCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiYXUiOiJwcmVyb2xsIiwidHkiOiJ2aWRlbyIsImFpZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwicGd1IjoiaHR0cHMlM0ElMkYlMkZodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSUyRnJ2dkFTTWlNJTJGZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjElMkZpbmRleC5odG1sIn0%3D",
+      "file": "_external/tag.atom.gamedistribution.com/v1/atm",
+      "bytes": 77,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://hb.360yield.com/privacy-sandbox/topics.html?bidder=improvedigital",
+      "file": "_external/hb.360yield.com/privacy-sandbox/topics.html",
+      "bytes": 840,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20260722",
+      "file": "_external/cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json",
+      "bytes": 1541,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/rid?ttd_pid=cw39kyg&fmt=json",
+      "file": "_external/match.adsrvr.org/track/rid",
+      "bytes": 109,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://id.crwdcntrl.net/id",
+      "file": "_external/id.crwdcntrl.net/id",
+      "bytes": 75,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/i/22110840991?ers=3",
+      "file": "_external/fundingchoicesmessages.google.com/i/22110840991",
+      "bytes": 225390,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxVB_wX3kvU99AXS72hnbxrWU5kMNboJgWonpJSULvTW7iNL-2tg74-YAzETJD0SDU9Agv7kDMtcoy4mlEFlozSwF6YHOha5yHNBkbvRIPsFnbl-UQh2ud1WEUiKobVd-gDPdmFaAg==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzg0NzE1NjYwLDkyNTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbS9ydnZBU01pTS9kN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MS9pbmRleC5odG1sIixudWxsLFtbOCwiMTVwR2pjaXpLZlEiXSxbOSwiZW4tVVMiXSxbMTgsIltbW251bGwsMzg0MF1dXSJdLFszNSwiMTc4NDcxNTY2MCJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxVB_wX3kvU99AXS72hnbxrWU5kMNboJgWonpJSULvTW7iNL-2tg74-YAzETJD0SDU9Agv7kDMtcoy4mlEFlozSwF6YHOha5yHNBkbvRIPsFnbl-UQh2ud1WEUiKobVd-gDPdmFaAg==",
+      "bytes": 1975,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "file": "_external/connectid.analytics.yahoo.com/connectId-gpt.js",
+      "bytes": 8729,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://cdn.fusion-platform.com/static/js/novatiq_gam_integration.min.js",
+      "file": "_external/cdn.fusion-platform.com/static/js/novatiq_gam_integration.min.js",
+      "bytes": 3660,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://dmp.im-apps.net/secure-signal/provider.js",
+      "file": "_external/dmp.im-apps.net/secure-signal/provider.js",
+      "bytes": 4890,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxVbPM4MDbWW2WISfD6MhisSQqRrLQevlguL7z9jUeCOzbFFW3nsu0tAHA43iAVIAptqte_qPSnrsoUjRxbgDl6seBJGgUhN4EntAbWl6SSDMwTEMZoRooK1XhIVD-iwTgDF9H4noA==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzg0NzE1NjYwLDk5MjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjEvaW5kZXguaHRtbCIsbnVsbCxbWzgsIjE1cEdqY2l6S2ZRIl0sWzksImVuLVVTIl0sWzE4LCJbW1tudWxsLDM4NDBdXV0iXSxbMzUsIjE3ODQ3MTU2NjAiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI5LCJmYWxzZSJdXV0",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxVbPM4MDbWW2WISfD6MhisSQqRrLQevlguL7z9jUeCOzbFFW3nsu0tAHA43iAVIAptqte_qPSnrsoUjRxbgDl6seBJGgUhN4EntAbWl6SSDMwTEMZoRooK1XhIVD-iwTgDF9H4noA==",
+      "bytes": 9180,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://oa.openxcdn.net/esp.js",
+      "file": "_external/oa.openxcdn.net/esp.js",
+      "bytes": 32437,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://cdn.mgaru.dev/static/myGaruStandalone.js",
+      "file": "_external/cdn.mgaru.dev/static/myGaruStandalone.js",
+      "bytes": 2733,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://mug.criteo.com/sid?cpp=yIV5O3x0RVh1QXF2OFhBVitEUUFXbVBoREVsY3JYOFkwU282VEM4ajA1amhPSnduKzkvRytVVWhaQ1BPWWxwZ3BpTzVjKzE5Si9jMi9EdXhZOFJxNXV4Z1dmRFp6QnQ0cTRRbWtobzE5L0JrLytnVWJMaXhjWWRtb1dLa2sweXZYOEFGQUwrRkVGN011bUQrYzJzR2ltVEt4cTAzbk00em1UMXZyR1dvRitLWTQ0bnBCdU5MZUhZL0cvcERMbUV0UVltSDJWaGNoVnFuU0huYmM4Z2Z5eFl2aWg0OFFaSGl1K0JkWXRlQjNEeDYvR1g0WXMxUmMyQ09RMEs5dDJVZyt5Q01nOWlUaUdObDlBSTRMelpLTWY4MVoxdz09fA&cppv=2",
+      "file": "_external/mug.criteo.com/sid",
+      "bytes": 394,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "file": "_external/static.criteo.net/js/ld/publishertag.ids.js",
+      "bytes": 42696,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://sync6.im-apps.net/9001/pid?ref=null&page=https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/index.html",
+      "file": "_external/sync6.im-apps.net/9001/pid",
+      "bytes": 20,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "file": "_external/invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "bytes": 2729,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=html5.gamedistribution.com&gdpr=0&gdpr_consent=",
+      "file": "_external/gum.criteo.com/syncframe",
+      "bytes": 12662,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/rainbow/pick?id=html5.gamedistribution.com&aid=d7b785e3112f427aaffb4530bd608961",
+      "file": "_external/tag.atom.gamedistribution.com/v1/rainbow/pick",
+      "bytes": 2,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "file": "_external/lb.eu-1-id5-sync.com/lb/v1",
+      "bytes": 45,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json;charset=UTF-8"
+    },
+    {
+      "url": "https://ident.mygaru.com/v2/id",
+      "file": "_external/ident.mygaru.com/v2/id",
+      "bytes": 206,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxUVuw_qE0_6v155EtPxgN7eXBJscKnAFQvhfs3U9hX0D5L0RYXw5Z47KGxt9gZmMUd82LgAa1TFo4twzGywcqqK_c12EjLvx4V3y894XvhJuprfok28SUkonDBK68fN0bgrte58TVf-wxTAHc6UUzat4N5pXP2Lg18MHQtgmxv-QNOuUMWU26P98dU-/_/abm.aspx-ad2_/banner.ca?/160_ad_/120x600.",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxUVuw_qE0_6v155EtPxgN7eXBJscKnAFQvhfs3U9hX0D5L0RYXw5Z47KGxt9gZmMUd82LgAa1TFo4twzGywcqqK_c12EjLvx4V3y894XvhJuprfok28SUkonDBK68fN0bgrte58TVf-wxTAHc6UUzat4N5pXP2Lg18MHQtgmxv-QNOuUMWU26P98dU-/_/abm.aspx-ad2_/banner.ca",
+      "bytes": 54,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/d7b785e3112f427aaffb4530bd608961/undefined",
+      "file": "undefined",
+      "bytes": 49,
+      "status": 200,
+      "type": "document",
+      "contentType": "application/xml"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxXiOry7wAkVgqVGIQwmljMWcUIrh2rzXHX67zDihq5DzZ3Y_yOH6jQnHB50WcSWpWib3rayfmF_8MBJCcpXaP5xRoARQlZ1DASRMASYZecZeYNabGY8_vaM62xQRRki8HoVY7OLRw==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzg0NzE1NjYxLDc1NjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbS9ydnZBU01pTS9kN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MS9pbmRleC5odG1sIixudWxsLFtbOCwiMTVwR2pjaXpLZlEiXSxbOSwiZW4tVVMiXSxbMTgsIltbW251bGwsMzg0MF1dXSJdLFszNSwiMTc4NDcxNTY2MCJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxXiOry7wAkVgqVGIQwmljMWcUIrh2rzXHX67zDihq5DzZ3Y_yOH6jQnHB50WcSWpWib3rayfmF_8MBJCcpXaP5xRoARQlZ1DASRMASYZecZeYNabGY8_vaM62xQRRki8HoVY7OLRw==",
+      "bytes": 3250,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/err?ar=eyJpZCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiYXUiOiJwcmVyb2xsIiwidHkiOiJ2aWRlbyIsImFpZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwicGd1IjoiaHR0cHMlM0ElMkYlMkZodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSUyRnJ2dkFTTWlNJTJGZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjElMkZpbmRleC5odG1sIn0%3D&ec=303",
+      "file": "_external/tag.atom.gamedistribution.com/v1/err",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://acdn.adnxs.com/dmp/async_usersync.html",
+      "file": "_external/acdn.adnxs.com/dmp/async_usersync.html",
+      "bytes": 53044,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=156946",
+      "file": "_external/ads.pubmatic.com/AdServer/js/user_sync.html",
+      "bytes": 22264,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://onetag-sys.com/usync/?cb=1784715660695",
+      "file": "_external/onetag-sys.com/usync/index.html",
+      "bytes": 2504,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://ut.pubmatic.com/geo?pubid=156946",
+      "file": "_external/ut.pubmatic.com/geo",
+      "bytes": 22,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=54570475&p=156946&s=0&a=0&ptask=ALL&np=0&fp=0&rp=0&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "file": "_external/image6.pubmatic.com/AdServer/PugMaster",
+      "bytes": 2339,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce?%2Fasync_usersync%3Fcbfn%3DqueuePixels",
+      "file": "_external/ib.adnxs.com/bounce",
+      "bytes": 0,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://c1.adform.net/serving/cookie/match?CC=1&party=14&cid=67113413-478D-42AC-BE9F-25BBABF11DD7&gdpr=0&gdpr_consent=",
+      "file": "_external/c1.adform.net/serving/cookie/match",
+      "bytes": 35,
+      "status": 200,
+      "type": "document",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&gdpr=0&gdpr_consent=&piggybackCookie=CAESEF0iv2p9PVj3y10xPyt01DQ&google_cver=1",
+      "file": "_external/image2.pubmatic.com/AdServer/Pug",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif; charset=utf-8"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=19566&dpuuid=67113413-478D-42AC-BE9F-25BBABF11DD7",
+      "file": "_external/dpm.demdex.net/demconf.jpg",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=34dc0e54-4df1-4db6-903c-5beef72816f1&gdpr=0&gdpr_consent=",
+      "file": "_external/simage2.pubmatic.com/AdServer/Pug",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif; charset=utf-8"
+    },
+    {
+      "url": "https://sg.semasio.net/sync/1/15927723?&gdpr=0&gdpr_consent=&sInitiator=external&sExtCookieId=67113413-478D-42AC-BE9F-25BBABF11DD7",
+      "file": "_external/sg.semasio.net/sync/1/15927723",
+      "bytes": 0,
+      "status": 200,
+      "type": "image",
+      "contentType": ""
+    },
+    {
+      "url": "https://image4.pubmatic.com/AdServer/SPug?partnerID=156078&xid=y-BTf3029E2uXfFx0Ii1ThgMxzlBfTqwA-~A&gdpr=0&us_privacy=",
+      "file": "_external/image4.pubmatic.com/AdServer/SPug",
+      "bytes": 0,
+      "status": 200,
+      "type": "document",
+      "contentType": ""
+    },
+    {
+      "url": "https://pippio.com/api/sync?pid=5324&it=1&iv=a228764ba808883b24beabdbed1ccae3cf5d7d6e6f971c087e364a8a76bdf464791426b5417dce21&_=2",
+      "file": "_external/pippio.com/api/sync",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=19566&dpuuid=2E99D267-43DA-406E-9EA7-FEB353DEEB19",
+      "file": "_external/dpm.demdex.net/ibs_dpid=19566&dpuuid=2E99D267-43DA-406E-9EA7-FEB353DEEB19",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://idsync.rlcdn.com/396846.gif?served_by=evergreen&partner_uid=0a1882de-6840-43b6-92b0-781cb68d5aa7",
+      "file": "_external/idsync.rlcdn.com/396846.gif",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://simage4.pubmatic.com/AdServer/SPug?partnerID=156946&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "file": "_external/simage4.pubmatic.com/AdServer/SPug",
+      "bytes": 0,
+      "status": 200,
+      "type": "script",
+      "contentType": ""
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T11:17:27.379Z",
+    "navigationError": null,
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header."
+    ],
+    "pageErrors": [
+      "Failed to read the 'serviceWorker' property from 'Navigator': Service worker is disabled because the context is sandboxed and lacks the 'allow-same-origin' flag.",
+      "Failed to read the 'serviceWorker' property from 'Navigator': Service worker is disabled because the context is sandboxed and lacks the 'allow-same-origin' flag."
+    ],
+    "failedAssets": [
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjA1MjElMkZzbGluZy10b21iJTJGaW5kZXguaHRtbCIsInJmciI6IiIsInRkbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJkcHRoIjowLCJhcmdzIjp7ImdpZCI6InNsaW5nLXRvbWIiLCJtZDUiOiJkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSIsInBpZCI6MCwiY3RyeSI6IlZOIiwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHA6Ly8xMjcuMC4wLjE6NjA1MjEvc2xpbmctdG9tYi9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjYwNTIxIn19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDUyMSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjYwNTIxL3NsaW5nLXRvbWIvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJFZGdlIiwiYnJ2cyI6IjE1MC4wLjAuMCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2cyI6IjEwIiwidyI6MTI4MCwiaCI6NzA0fX0%3D :: net::ERR_ABORTED",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2316275586951220&output=html&adk=1812271804&adf=3025194257&abgtt=1&lmt=1784719036&plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=http%3A%2F%2F127.0.0.1%3A60521%2Fsling-tomb%2Findex.html&pra=5&aiof=10&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUwLjAuNDA3OC44MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q7QT1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTUwLjAuNzg3MS4xMjkiXSxbIk1pY3Jvc29mdCBFZGdlIiwiMTUwLjAuNDA3OC44MyJdXSwwXQ..&dt=1784719035896&bpp=3&bdt=1692&idt=323&shv=r20260721&mjsv=m202607160101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=5631614009469&frm=20&pv=2&u_tz=420&u_his=2&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&dmc=32&adx=-12245933&ady=-12245933&biw=1280&bih=720&scr_x=0&scr_y=0&eid=95396139&oid=2&pvsid=738571389518498&tmod=734115653&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=404x648_l%7C404x648_r&bz=1&ifi=1&uci=a!1&fsb=1&dtd=342 :: HTTP 403",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784719036166&em=tv.1~ec.e3&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=570989016&_eu=AAAAAGAC&are=1&cid=1342011700.1784719036&ec_mode=a&frm=0&pscdl=noapi&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938465~115938468~118395335~118897920~118897930~119527020~119773331~119896802&sid=1784719036&sct=1&seg=0&dl=http%3A%2F%2F127.0.0.1%2Fsling-tomb%2Findex.html&dt=Sling%20Tomb&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A60521&ep.parent_domain=127.0.0.1%3A60521&ep.parent_url=http%253A%252F%252F127.0.0.1%253A60521%252Fsling-tomb%252Findex.html&ep.game_id=d7b785e3112f427aaffb4530bd608961&ep.game_slug=sling-tomb&ep.game_title=Sling%20Tomb&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&tfd=2001 :: net::ERR_ABORTED",
+      "https://tracker-v4.gamedock.io/v1/events-tracker/track/product/Game%20Distribution/user_id/90a06c4c-30a8-482d-84f3-cd015824f516 :: net::ERR_ABORTED",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6Im9wdXMtYWQuc3RhcnQiLCJjdCI6MCwidnJzIjoiMS40My41OCIsInVybCI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoic2xpbmctdG9tYiIsIm1kNSI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwicGlkIjowLCJjdHJ5IjoiVk4iLCJsY2wiOiJlbiIsImhsZSI6MSwiYWRzIjoxLCJocmVmIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJkZXB0aCI6eyJ2YWx1ZSI6MH0sInRvcCI6eyJkb21haW4iOnsiZnJvbSI6InNlbGYtdG9wIiwidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEifX0sInBhcnRuZXIiOnsiZG9tYWluIjp7InZhbHVlIjoiMTI3LjAuMC4xOjYwNTIxIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHA6Ly8xMjcuMC4wLjE6NjA1MjEvc2xpbmctdG9tYi9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D :: net::ERR_ABORTED",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6Im9wdXMtYWQucmVhZHkiLCJjdCI6MCwidnJzIjoiMS40My41OCIsInVybCI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoic2xpbmctdG9tYiIsIm1kNSI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwicGlkIjowLCJjdHJ5IjoiVk4iLCJsY2wiOiJlbiIsImhsZSI6MSwiYWRzIjoxLCJocmVmIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJkZXB0aCI6eyJ2YWx1ZSI6MH0sInRvcCI6eyJkb21haW4iOnsiZnJvbSI6InNlbGYtdG9wIiwidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEifX0sInBhcnRuZXIiOnsiZG9tYWluIjp7InZhbHVlIjoiMTI3LjAuMC4xOjYwNTIxIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHA6Ly8xMjcuMC4wLjE6NjA1MjEvc2xpbmctdG9tYi9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D :: net::ERR_ABORTED",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6InNnLmFkLnByLnJlcXVlc3RlZCIsImN0IjowLCJ2cnMiOiIxLjQzLjU4IiwidXJsIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiMTI3LjAuMC4xOjYwNTIxIiwiZHB0aCI6MCwiYXJncyI6eyJnaWQiOiJzbGluZy10b21iIiwibWQ1IjoiZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjEiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYwNTIxL3NsaW5nLXRvbWIvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDUyMSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEiLCJmcm9tIjoiZmFsbGJhY2sifSwidXJsIjp7InZhbHVlIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX19LCJ1YSI6eyJicm5tIjoiRWRnZSIsImJydnMiOiIxNTAuMC4wLjAiLCJvc25tIjoiV2luZG93cyIsIm9zdnMiOiIxMCIsInciOjEyODAsImgiOjcwNH19 :: net::ERR_ABORTED",
+      "https://tag.atom.gamedistribution.com/v1/err?ar=eyJpZCI6IjEyNy4wLjAuMTo2MDUyMSIsImF1IjoicHJlcm9sbCIsInR5IjoidmlkZW8iLCJhaWQiOiJkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSIsInBndSI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIn0%3D&ec=303 :: net::ERR_ABORTED",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmFkZmxvdyIsImN0IjowLCJ2cnMiOiIxLjQzLjU4IiwidXJsIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiMTI3LjAuMC4xOjYwNTIxIiwiZHB0aCI6MCwiYXJncyI6eyJnaWQiOiJzbGluZy10b21iIiwibWQ1IjoiZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjEiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImFyZ3MiOnsiYWRGbG93SW5kZXgiOiItMSIsInN1Y2Nlc3NBZGFwdGVyIjoibm9uZSIsImFkQmxvY2tlciI6ZmFsc2UsImFmZ0Jsb2NrZWQiOmZhbHNlLCJpbWFCbG9ja2VkIjpmYWxzZSwiYWRUeXBlIjoicHJlcm9sbCIsInNlc3Npb25JZCI6ImQzZDlhODkyLWRjNzUtNDAxNC04NTUyLTBiYTk5ZGZlMzI5ZSIsImFkYXB0ZXJSZXN1bHRzIjp7Im9wdXMiOnsicmVxIjoxLCJpbXAiOjAsImZhaWwiOjEsImZhaWxSZWFzb24iOiJvcHVzLWVycm9yIiwiZmFpbE1lc3NhZ2UiOiJbTENdIE5vIHJvdXRlciByZWdpc3RlcmVkIGZvciBsb2N1cyIsImZhaWxUeXBlIjoic2VydmljZSJ9LCJpbWEiOnsicmVxIjoxLCJpbXAiOjAsImZhaWwiOjEsImZhaWxNZXNzYWdlIjoiMzAzIn0sImFkc2Vuc2UiOnsicmVxIjoxLCJpbXAiOjAsImZhaWwiOjEsImZhaWxNZXNzYWdlIjoidGltZW91dC1fc3RhcnRUaW1lb3V0Rm9yQWRCcmVhayJ9fSwiY3RyeSI6IlZOIiwiZ29vZ2xlQWRNb2RlIjoicGVyc29uYWxpemVkIn0sImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYwNTIxL3NsaW5nLXRvbWIvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDUyMSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEiLCJmcm9tIjoiZmFsbGJhY2sifSwidXJsIjp7InZhbHVlIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX0sImFkRmxvd0luZGV4IjoiLTEiLCJzdWNjZXNzQWRhcHRlciI6Im5vbmUiLCJhZEJsb2NrZXIiOmZhbHNlLCJhZmdCbG9ja2VkIjpmYWxzZSwiaW1hQmxvY2tlZCI6ZmFsc2UsImFkVHlwZSI6InByZXJvbGwiLCJzZXNzaW9uSWQiOiJkM2Q5YTg5Mi1kYzc1LTQwMTQtODU1Mi0wYmE5OWRmZTMyOWUiLCJhZGFwdGVyUmVzdWx0cyI6eyJvcHVzIjp7InJlcSI6MSwiaW1wIjowLCJmYWlsIjoxLCJmYWlsUmVhc29uIjoib3B1cy1lcnJvciIsImZhaWxNZXNzYWdlIjoiW0xDXSBObyByb3V0ZXIgcmVnaXN0ZXJlZCBmb3IgbG9jdXMiLCJmYWlsVHlwZSI6InNlcnZpY2UifSwiaW1hIjp7InJlcSI6MSwiaW1wIjowLCJmYWlsIjoxLCJmYWlsTWVzc2FnZSI6IjMwMyJ9LCJhZHNlbnNlIjp7InJlcSI6MSwiaW1wIjowLCJmYWlsIjoxLCJmYWlsTWVzc2FnZSI6InRpbWVvdXQtX3N0YXJ0VGltZW91dEZvckFkQnJlYWsifX0sImdvb2dsZUFkTW9kZSI6InBlcnNvbmFsaXplZCJ9LCJ1YSI6eyJicm5tIjoiRWRnZSIsImJydnMiOiIxNTAuMC4wLjAiLCJvc25tIjoiV2luZG93cyIsIm9zdnMiOiIxMCIsInciOjEyODAsImgiOjcwNH19 :: net::ERR_ABORTED",
+      "https://um.simpli.fi/pubmatic?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODA2JnRsPTUxODQwMA==&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid= :: net::ERR_CONNECTION_REFUSED",
+      "https://ipac.ctnsnet.com/int/cm?exc=14&redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MTEmdGw9MjAxNjA=&piggybackCookie=[user_id]&gdpr=0&gdpr_consent= :: net::ERR_ABORTED",
+      "https://sync-tm.everesttech.net/upi/pid/b9pj45k4?redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=${TM_USER_ID}&gdpr=0&gdpr_consent= :: net::ERR_ABORTED",
+      "https://cms.quantserve.com/pixel/p-5aWVS_roA1dVM.gif?idmatch=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid= :: net::ERR_ABORTED",
+      "https://sync.srv.stackadapt.com/sync?nid=11&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid= :: net::ERR_ABORTED",
+      "https://t.oa.opera.com/sync?vendor=60369&pubid=pub8730968190912&gdpr=0&consent=&us_privacy=&custom_data= :: net::ERR_ABORTED",
+      "https://dsp-2.presage.io/sync?bidswitch_ssp_id=pubmatic&bsw_custom_parameter=23bf80da-f816-4c85-8e19-070ecff93391&gdpr=0&gdpr_consent= :: net::ERR_ABORTED"
+    ],
+    "remoteRequests": [
+      "http://html5.api.gamedistribution.com/main.min.js",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJsdGhyIjoxOCwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoxLCJhcmdzIjp7Im1lc3NhZ2UiOiJsb2FkaW5nIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719035082",
+      "https://game.api.gamedistribution.com/game/v4/get/d7b785e3112f427aaffb4530bd608961/?domain=127.0.0.1:60521&v=1.43.58&engn=Windows&localTime=18",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJsdGhyIjoxOCwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoyLCJhcmdzIjp7Im1lc3NhZ2UiOiJsb2FkaW5nIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719035085",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.success&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJsdGhyIjoxOCwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoxLCJhcmdzIjp7Im1lc3NhZ2UiOiJzdWNjZXNzIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719035720",
+      "https://pm.azerioncircle.com/p/locus/",
+      "https://www.googletagmanager.com/gtag/js?id=G-PLRTBHGSEL&l=gdSDKDataLayer",
+      "https://cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjA1MjElMkZzbGluZy10b21iJTJGaW5kZXguaHRtbCIsInJmciI6IiIsInRkbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJkcHRoIjowLCJhcmdzIjp7ImdpZCI6InNsaW5nLXRvbWIiLCJtZDUiOiJkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSIsInBpZCI6MCwiY3RyeSI6IlZOIiwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHA6Ly8xMjcuMC4wLjE6NjA1MjEvc2xpbmctdG9tYi9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjYwNTIxIn19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDUyMSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjYwNTIxL3NsaW5nLXRvbWIvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJFZGdlIiwiYnJ2cyI6IjE1MC4wLjAuMCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2cyI6IjEwIiwidyI6MTI4MCwiaCI6NzA0fX0%3D",
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "https://tracker.gamemonkey.org/v1/gamemonkey/track/gd/event/pageview",
+      "https://tracker-v4.gamedock.io/v1/events-tracker/track/product/Game%20Distribution/user_id/90a06c4c-30a8-482d-84f3-cd015824f516",
+      "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202607160101/show_ads_impl_fy2021.js",
+      "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=127.0.0.1%3A60521",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.success&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJsdGhyIjoxOCwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoyLCJhcmdzIjp7Im1lc3NhZ2UiOiJzdWNjZXNzIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719035923",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784719036166&em=tv.1~ec.e3&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=570989016&_eu=AAAAAGAC&are=1&cid=1342011700.1784719036&ec_mode=a&frm=0&pscdl=noapi&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938465~115938468~118395335~118897920~118897930~119527020~119773331~119896802&sid=1784719036&sct=1&seg=0&dl=http%3A%2F%2F127.0.0.1%2Fsling-tomb%2Findex.html&dt=Sling%20Tomb&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A60521&ep.parent_domain=127.0.0.1%3A60521&ep.parent_url=http%253A%252F%252F127.0.0.1%253A60521%252Fsling-tomb%252Findex.html&ep.game_id=d7b785e3112f427aaffb4530bd608961&ep.game_slug=sling-tomb&ep.game_title=Sling%20Tomb&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&tfd=2001",
+      "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-PLRTBHGSEL&cid=1342011700.1784719036&gtm=45je67k1v9165161826za200zd9165161826&rcb=0&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616985~115938465~115938468~118395335~118897920~118897930~119527020~119773331~119896802",
+      "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=1342011700.1784719036&gtm=45je67k1v9165161826za200zd9165161826&rcb=0&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616985~115938465~115938468~118395335~118897920~118897930~119527020~119773331~119896802&z=1943204370",
+      "https://pub.headerlift.com/opphb?page_url=127.0.0.1%3A60521&page_type=gd&page_width=1280&aid=d7b785e3112f427aaffb4530bd608961",
+      "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "https://pub.headerlift.com/opphb?page_url=127.0.0.1:60521&page_type=gd&page_width=1280&aid=d7b785e3112f427aaffb4530bd608961",
+      "https://googleads.g.doubleclick.net/pagead/html/r20260721/r20190131/zrt_lookup_fy2021.html",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2316275586951220&output=html&adk=1812271804&adf=3025194257&abgtt=1&lmt=1784719036&plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=http%3A%2F%2F127.0.0.1%3A60521%2Fsling-tomb%2Findex.html&pra=5&aiof=10&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUwLjAuNDA3OC44MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q7QT1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTUwLjAuNzg3MS4xMjkiXSxbIk1pY3Jvc29mdCBFZGdlIiwiMTUwLjAuNDA3OC44MyJdXSwwXQ..&dt=1784719035896&bpp=3&bdt=1692&idt=323&shv=r20260721&mjsv=m202607160101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=5631614009469&frm=20&pv=2&u_tz=420&u_his=2&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&dmc=32&adx=-12245933&ady=-12245933&biw=1280&bih=720&scr_x=0&scr_y=0&eid=95396139&oid=2&pvsid=738571389518498&tmod=734115653&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=404x648_l%7C404x648_r&bz=1&ifi=1&uci=a!1&fsb=1&dtd=342",
+      "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20260721&st=env&sjk=738571389518498",
+      "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "https://www.google.com/recaptcha/api2/aframe",
+      "http://imasdk.googleapis.com/js/core/bridge3.777.0_en.html",
+      "https://s0.2mdn.net/instream/video/client.js",
+      "https://pagead2.googlesyndication.com/omsdk/releases/live/omweb-v1.js",
+      "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=255&li=gda_r20260721&jk=738571389518498&rc=",
+      "https://pagead2.googlesyndication.com/bg/pxXH9SCqr7lZpm8XdTtCUYpBip37b-GM2-zZfohu92k.js",
+      "https://ep2.adtrafficquality.google/generate_204?9WjMeA",
+      "https://tracker.gamemonkey.org/v1/gamemonkey/track/gd/event/gameplay",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6Im9wdXMtYWQuc3RhcnQiLCJjdCI6MCwidnJzIjoiMS40My41OCIsInVybCI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoic2xpbmctdG9tYiIsIm1kNSI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwicGlkIjowLCJjdHJ5IjoiVk4iLCJsY2wiOiJlbiIsImhsZSI6MSwiYWRzIjoxLCJocmVmIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJkZXB0aCI6eyJ2YWx1ZSI6MH0sInRvcCI6eyJkb21haW4iOnsiZnJvbSI6InNlbGYtdG9wIiwidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEifX0sInBhcnRuZXIiOnsiZG9tYWluIjp7InZhbHVlIjoiMTI3LjAuMC4xOjYwNTIxIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHA6Ly8xMjcuMC4wLjE6NjA1MjEvc2xpbmctdG9tYi9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6Im9wdXMtYWQucmVhZHkiLCJjdCI6MCwidnJzIjoiMS40My41OCIsInVybCI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoic2xpbmctdG9tYiIsIm1kNSI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwicGlkIjowLCJjdHJ5IjoiVk4iLCJsY2wiOiJlbiIsImhsZSI6MSwiYWRzIjoxLCJocmVmIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJkZXB0aCI6eyJ2YWx1ZSI6MH0sInRvcCI6eyJkb21haW4iOnsiZnJvbSI6InNlbGYtdG9wIiwidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEifX0sInBhcnRuZXIiOnsiZG9tYWluIjp7InZhbHVlIjoiMTI3LjAuMC4xOjYwNTIxIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHA6Ly8xMjcuMC4wLjE6NjA1MjEvc2xpbmctdG9tYi9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.ad.error&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoiW0xDXSBObyByb3V0ZXIgcmVnaXN0ZXJlZCBmb3IgbG9jdXMifSwidHRsZSI6IlNsaW5nIFRvbWIiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784719037294",
+      "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gda_r20260721&jk=738571389518498&bg=!rK-lr83NAAaHuSoKp7k7AEcBe5WfOMslGBvR0KCtVnoySU27LO8HysaRtLaLTYlBslDeN7XAyHrEV2VrIj2XrsrsZSsdVqWOljR3Q-QZsYqucmxP_7wIUgIAAABXUgAAAAVoAQd-ADY7AkpBGTXaEO-KsOFWYgPp7CnMXJhOPnvZ3CJ_kaWtaVIWX0H8t1AkDWyrX55n22oyYx2JJr2ZAn87cAo29uvGQxX0SXbe7fPdxAf-FwjvYSMZioj2cp7AYnRIFcflkJpM_XRK82MjH_JJ-Gvd_fLzjafLETRAH3H58kO3ElVZ73yQ6MCPZwN1uoV7bA1cOk-j6k8S4J9cI3MGK-O9AxEGh1SCd1d_dZ1eRwJ_8N2ZXrzbc7UBdAaUHzQ9lq0-jgWCgoW6RCM3iEJGZzWA_L-emqvMHdl69B-TAjtjb88nLLUJk4OqsLOMd24cl8KbdRH3139PBHS_Y3jC8Dlbuk7iEvztO94IsgMI5hn7ternkpEHl6pqoRTDxRyKG5DBMIB6dQ_iLzjBbTrAdEDmCazSvf6Om9Z7rOMqmIFoFGAkFkqhZMJ5kmm_QpoATUlRNbH2mqroMmBtgPFgE1ZI27-Hzk_8f0KFcJsHqyX1Ht0WZfp2On-qunSaltFQGYT1KZvNucIARBeCAkAS5CVONNNfbFzP18vIKcrjfPB0eEcz7CZxz-P2scWA2kLN1vwndbm2ltf7i-OdR-X1bBa-Ctk_YxK2JRkfymgmIny-Z0vwFklGjv38nbJ0h6hqDVqTqIvJkCbTMZEl6VMrdsCEmYBzgUlGK0l8Tjeo3lyYEZNqhSRvm2Y3FYRM-5xUQ7R6u-976KyAvXNkDNAfhtYI2sG8s2FgQqyWJbIR00nxNGuDicwXR_CD4TcGcwlRHDWLtVWs3OqdMQPWkkL4rH3HaITGAlZyHcXBygk0y4Thpx61tnakS_NOGAwhO5JM6A7KqqWeYxtgYZlgoUBhOAKvhrSggUEWO0U_ecAbsR1SChrrzH3875Pu4UN0tMSYg_I6xva2M9f73ZPVxMi5xSfgafGSThxfxc7CyMo",
+      "https://tag.atom.gamedistribution.com/v1/atm?ar=eyJpZCI6IjEyNy4wLjAuMTo2MDUyMSIsImF1IjoicHJlcm9sbCIsInR5IjoidmlkZW8iLCJhaWQiOiJkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSIsInBndSI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIn0%3D",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.dp.fp&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjowLjR9LCJ0dGxlIjoiU2xpbmcgVG9tYiIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784719037774",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20260722",
+      "https://gum.criteo.com/sid/json?origin=prebid&topUrl=http%3A%2F%2F127.0.0.1%3A60521%2F&domain=127.0.0.1&cw=1&lsw=1",
+      "https://id5-sync.com/api/config/prebid",
+      "https://id.crwdcntrl.net/id",
+      "https://match.adsrvr.org/track/rid?ttd_pid=cw39kyg&fmt=json",
+      "https://hb.360yield.com/privacy-sandbox/topics.html?bidder=improvedigital",
+      "https://ib.adnxs.com/ut/v3/prebid",
+      "https://prg.smartadserver.com/prebid/v1",
+      "https://ad.360yield.com/545/pb?gzip=1",
+      "https://hbopenbid.pubmatic.com/translator?source=prebid-client&gzip=1",
+      "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607170101/pubads_impl.js?cb=31099833",
+      "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=127.0.0.1%3A60521",
+      "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202607210101/gpt",
+      "https://mug.criteo.com/sid?cpp=FATolHxPMy9Fcm12STVXWWRsbE1nUWl5NnhQdWJLT1M1VUFTZ3Y3OHVWeGVBak5FVEhSV0lJemsxT3NlckkxRHVSL0llVzdTVjlRWndYU2VYZFJtaStpcVQ5QWw2RXdIWElUTS9vYXlrTUVCdnQrUnVBUFhMcDhyeVZHell3VVBHNFZkQ0YzL2dLNHRFYU9qN0NpUm9PS3ExWUc0ZFhJenJ3RDRPUWhwVXE2REI5MVRaNGhqTUhvRHVrbVJ4REk0T2wwb3llSjV3WHZxN3ZnTHo1S3JHNVJDWjM4a3hFdjhITml4dlRjSUp0eFhOOUxzT0VLKzRlYXQwV2RoQUxXcTc5dDM0fA&cppv=2",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.bfa&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoxfSwidHRsZSI6IlNsaW5nIFRvbWIiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784719038225",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.adctx&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6e30sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719038229",
+      "https://csi.gstatic.com/csi?v=2&s=ima&puid=1~mrvzmua1&c=5631614009469&slotId=2815807004734&eee=missing-element&bi=missing-id&vast_v=3.0&lima_p_ich=0&lima_p_icu=0",
+      "https://securepubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=xml_vast4&unviewed_position_start=1&correlator=3429590665136302&sz=640x480&url=null&iu=%2F1015413%2FTNL_NS-18101700058%2FTNL_T-210119116699&description_url=http%253A%252F%252F127.0.0.1%253A60521%252Fsling-tomb%252Findex.html&max_ad_duration=300000&cust_params=hb_uuid%3Dundefined%26hb_cache_id%3Dundefined%26tnl_paid%3D14697%26tnl_pid%3DP-21011913752%26tnl_system%3D1%26tid%3DTNL_T-210119116699%26tnl_ad_type%3Dvideo_image%26tnl_asset_id%3Dd7b785e3112f427aaffb4530bd608961%26tnl_ad_pos%3Dpreroll%26nsid%3DTNL_NS-18101700058%26tnl_pt%3D22%26tnl_wog%3D0%26gdGameId%3Dd7b785e3112f427aaffb4530bd608961%26tnl_content_category%3Dcasual%26adaptor_order%3D1%26pbct%3D1%26tnl_test%3Da%26fp%3D0.4%26fpt%3D99%26bfa%3D1%26adsense%3D0&plcmt=1&vpmute=1&npa=0&tfcd=0&vpa=auto&sdkv=h.3.777.0&osd=2&frm=0&vis=1&sdr=1&hl=en&afvsz=200x200%2C250x250%2C300x250%2C336x280%2C450x50%2C468x60%2C480x70%2C728x90&is_amp=0&u_so=l&ctv=0&sdki=100000445&ptt=20&vo=0&adk=3940389611&sdk_apis=2%2C7%2C8&omid_p=Google1%2Fh.3.777.0&sid=E582D621-0793-4F07-99E9-2D1DD4838377&eid=95322027%2C95331589%2C95332046&dlt=1784719034204&idt=2689&dt=1784719038251&cookie_enabled=1&cdm=127.0.0.1&eoidce=1&pvsid=738571389518498&scor=1060601196514232&ged=ve4_td4_tt1_pd4_la1000_er0.0.154.300_vi0.0.720.1280_vp100_eb24171",
+      "https://lb.eu-1-id5-sync.com/lb/v1",
+      "https://csi.gstatic.com/csi?v=2&s=ima&puid=2~mrvzmvc3&c=5631614009469&slotId=2815807004734&ghmsh_eids=95322027%2C95331589%2C95332046&vast_v=4.0",
+      "https://tag.atom.gamedistribution.com/v1/err?ar=eyJpZCI6IjEyNy4wLjAuMTo2MDUyMSIsImF1IjoicHJlcm9sbCIsInR5IjoidmlkZW8iLCJhaWQiOiJkN2I3ODVlMzExMmY0MjdhYWZmYjQ1MzBiZDYwODk2MSIsInBndSI6Imh0dHAlM0ElMkYlMkYxMjcuMC4wLjElM0E2MDUyMSUyRnNsaW5nLXRvbWIlMkZpbmRleC5odG1sIn0%3D&ec=303",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.ad.error&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MiwiYXJncyI6eyJtZXNzYWdlIjoiMzAzIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719038422",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6InNnLmFkLnByLnJlcXVlc3RlZCIsImN0IjowLCJ2cnMiOiIxLjQzLjU4IiwidXJsIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiMTI3LjAuMC4xOjYwNTIxIiwiZHB0aCI6MCwiYXJncyI6eyJnaWQiOiJzbGluZy10b21iIiwibWQ1IjoiZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjEiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYwNTIxL3NsaW5nLXRvbWIvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDUyMSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEiLCJmcm9tIjoiZmFsbGJhY2sifSwidXJsIjp7InZhbHVlIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX19LCJ1YSI6eyJicm5tIjoiRWRnZSIsImJydnMiOiIxNTAuMC4wLjAiLCJvc25tIjoiV2luZG93cyIsIm9zdnMiOiIxMCIsInciOjEyODAsImgiOjcwNH19",
+      "https://id5-sync.com/g/v2/396.json",
+      "https://acdn.adnxs.com/dmp/async_usersync.html",
+      "https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=156946",
+      "https://t.adx.opera.com/pub/sync?pubid=pub10682794419520&us_privacy=&gdpr=0&gdpr_consent=",
+      "https://d.adroll.com/cm/equativ/tp_out?advertisable=3GMDZMBFQREVBC75SYYKWH&gdpr=0&gdpr_consent=",
+      "https://match.prod.bidr.io/cookie-sync/sas?gdpr=0&gdpr_consent=",
+      "https://sync.adotmob.com/cookie/smart?r=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D1%26partnerid%3D66%26partneruserid%3D%7Bamob_user_id%7D&gdpr=0&gdpr_consent=",
+      "https://cs.admanmedia.com/e09bad714a425a93d6dea503dcf9c528.gif?redir=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D1%26partnerid%3D130%26partneruserid%3D%5BUID%5D%26gdpr%3D%5BGDPR%5D%26gdpr_consent%3D%5BGDPR_CONSENT%5D&gdpr=0&gdpr_consent=",
+      "https://ib.adnxs.com/async_usersync?cbfn=queuePixels",
+      "https://ut.pubmatic.com/geo?pubid=156946",
+      "https://rtb-csync.smartadserver.com/redir/?partnerid=187&partneruserid=MWRlYmRjZWU4MjQyNjU3OWIyOTgxZjg0ZDM2OTI5OWI&gdpr=0&gdpr_consent=&issi=1",
+      "https://match.prod.bidr.io/cookie-sync/sas?gdpr=0&gdpr_consent=&_bee_ppp=1",
+      "https://rtb-csync.smartadserver.com/redir?partneruserid=ABeBXE7UwU4AAADXHvhw0g&partnerid=127&gdpr=0",
+      "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=18212437&p=156946&s=0&a=0&ptask=ALL&np=0&fp=0&rp=0&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://c1.adform.net/serving/cookie/match?party=14&cid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&gdpr=0&gdpr_consent=",
+      "https://um.simpli.fi/pubmatic?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODA2JnRsPTUxODQwMA==&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://sync.mathtag.com/sync/img?mt_exid=3&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fsimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD0xMjk2MDA%3D%3D%26piggybackCookie%3Duid%3A%5BMM_UUID%5D&us_privacy=&gpp=&gpp_sid=",
+      "https://ups.analytics.yahoo.com/ups/58917/cms?uid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&gpp=&gpp_sid=&us_privacy=&gdpr=0&gdpr_consent=",
+      "https://ad.turn.com/r/cs?pid=1&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://ups.analytics.yahoo.com/ups/58292/sync?_origin=1&uid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&redir=true&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://dpm.demdex.net/ibs:dpid=19566&dpuuid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E",
+      "https://idsync.rlcdn.com/420486.gif?partner_uid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E",
+      "https://uipglob.semasio.net/pubmatic/1/info?sType=sync&sExtCookieId=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&sInitiator=external&gdpr=0&gdpr_consent=",
+      "https://cm.g.doubleclick.net/pixel?google_nid=pubmatic&google_hm=MjAyNkQ3QjgtREY0RS00Q0U2LUFGODktNDgxOTA0RURDRDRF&gdpr=0&gdpr_consent=&google_cm",
+      "https://cm.g.doubleclick.net/pixel?google_nid=pmeb&google_sc=1&google_hm=ICbXuN9OTOaviUgZBO3NTg%3D%3D&gdpr=0&gdpr_consent=&google_cm",
+      "https://cm.g.doubleclick.net/pixel?google_nid=pubmatic&google_cm&google_sc&gdpr=0&gdpr_consent=",
+      "https://match.adsrvr.org/track/cmf/generic?ttd_pid=pubmatic&ttd_tpi=1&gdpr=0&gdpr_consent=",
+      "https://c1.adform.net/serving/cookie/match?CC=1&party=14&cid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&gdpr=0&gdpr_consent=",
+      "https://www.temu.com/api/adx/cm/pixel-opera?adx_uid=b493518e9ddb042a&gdpr=0&gdpr_consent=&us_privacy=&redir=https%3A%2F%2Ft.oa.opera.com%2Fsync%3Fvendor%3D60369%26pubid%3Dpub10682794419520%26gdpr%3D0%26consent%3D%26us_privacy%3D%26custom_data%3D",
+      "https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156578&predirect=&gdpr=0&gdpr_consent=&google_gid=CAESEPxCqq5l9n8mIqhSUvPcyhA&google_cver=1",
+      "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&gdpr=0&gdpr_consent=&piggybackCookie=CAESEHtIEAV3WdQHkKjyyYPRZw4&google_cver=1",
+      "https://rtb-csync.smartadserver.com/redir/?issi=1&partnerid=66&partneruserid=0da1220400e48646ee25a511&gdpr=0&gdpr_consent=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=924feaf0-742f-48b7-b422-e9c5de364904&gdpr=0&gdpr_consent=",
+      "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=19566&dpuuid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E",
+      "https://rtb-csync.smartadserver.com/redir/?issi=1&partnerid=130&partneruserid=c35af328-567b-4dac-a12a-f9aff0035641&gdpr=0&gdpr_consent=[GDPR_CONSENT]",
+      "https://uipglob.semasio.net/pubmatic/1/info2?sType=sync&sExtCookieId=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&sInitiator=external&gdpr=0&gdpr_consent=",
+      "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODImdGw9MTU3NjgwMCZkcF9pZD0yMg==&piggybackCookie=2402634101238225159&gdpr=0&gdpr_consent=&us_privacy=",
+      "https://ups.analytics.yahoo.com/ups/58292/sync?_origin=1&uid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&redir=true&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&verify=true",
+      "https://ups.analytics.yahoo.com/ups/58917/cms?uid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&gpp=&gpp_sid=&us_privacy=&gdpr=0&gdpr_consent=&verify=true",
+      "https://sg.semasio.net/sync/1/15927723?&gdpr=0&gdpr_consent=&sInitiator=external&sExtCookieId=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E",
+      "https://idsync.rlcdn.com/1000.gif?memo=CIbVGRIwCiwIARCMowEaJDIwMjZEN0I4LURGNEUtNENFNi1BRjg5LTQ4MTkwNEVEQ0Q0RRAAGg0Iws2C0wYSBQjoBxAAQgBKAA",
+      "https://image4.pubmatic.com/AdServer/SPug?partnerID=156078&xid=y-nHkJOT5E2uUQtl2Sg26yfHWZXDtldMk-~A&gdpr=0&us_privacy=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQwNjQmdGw9NDMyMDA=&piggybackCookie=y-fiW9.v1E2oAaSQ8S2D6Qm5XG9XaHLc7xCKWMDNA-~A&gdpr=0",
+      "https://t.oa.opera.com/sync?vendor=60369&pubid=pub10682794419520&gdpr=0&consent=&us_privacy=&custom_data=",
+      "https://pippio.com/api/sync?pid=5324&it=1&iv=8dc550c67c8d9f474900d83e661248440d5f7200a0592e8dcbc2b48f84804c65791426b5417dce21&_=2",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD0xMjk2MDA==&piggybackCookie=uid:a4206a60-a6c2-4600-97cb-931b08858459&gdpr=0&gdpr_consent=",
+      "https://rtb-csync.smartadserver.com/redir/?gdpr=0&gdpr_consent=&issi=1&partnerid=163&partneruserid=OPUe85daa34c4a444db9a44f29a8b9e314a",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.ad.error&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MywiYXJncyI6eyJtZXNzYWdlIjoidGltZW91dC1fc3RhcnRUaW1lb3V0Rm9yQWRCcmVhayJ9LCJ0dGxlIjoiU2xpbmcgVG9tYiIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784719043429",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.adflow.all.index&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoiLTEifSwidHRsZSI6IlNsaW5nIFRvbWIiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784719043433",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.adflow.all.success_adapter&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoibm9uZSJ9LCJ0dGxlIjoiU2xpbmcgVG9tYiIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784719043433",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.adflow.preroll.index&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoiLTEifSwidHRsZSI6IlNsaW5nIFRvbWIiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784719043433",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.adflow.preroll.success_adapter&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxOCwiY3RyeSI6IlZOIiwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoibm9uZSJ9LCJ0dGxlIjoiU2xpbmcgVG9tYiIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784719043434",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmFkZmxvdyIsImN0IjowLCJ2cnMiOiIxLjQzLjU4IiwidXJsIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwNTIxJTJGc2xpbmctdG9tYiUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiMTI3LjAuMC4xOjYwNTIxIiwiZHB0aCI6MCwiYXJncyI6eyJnaWQiOiJzbGluZy10b21iIiwibWQ1IjoiZDdiNzg1ZTMxMTJmNDI3YWFmZmI0NTMwYmQ2MDg5NjEiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImFyZ3MiOnsiYWRGbG93SW5kZXgiOiItMSIsInN1Y2Nlc3NBZGFwdGVyIjoibm9uZSIsImFkQmxvY2tlciI6ZmFsc2UsImFmZ0Jsb2NrZWQiOmZhbHNlLCJpbWFCbG9ja2VkIjpmYWxzZSwiYWRUeXBlIjoicHJlcm9sbCIsInNlc3Npb25JZCI6ImQzZDlhODkyLWRjNzUtNDAxNC04NTUyLTBiYTk5ZGZlMzI5ZSIsImFkYXB0ZXJSZXN1bHRzIjp7Im9wdXMiOnsicmVxIjoxLCJpbXAiOjAsImZhaWwiOjEsImZhaWxSZWFzb24iOiJvcHVzLWVycm9yIiwiZmFpbE1lc3NhZ2UiOiJbTENdIE5vIHJvdXRlciByZWdpc3RlcmVkIGZvciBsb2N1cyIsImZhaWxUeXBlIjoic2VydmljZSJ9LCJpbWEiOnsicmVxIjoxLCJpbXAiOjAsImZhaWwiOjEsImZhaWxNZXNzYWdlIjoiMzAzIn0sImFkc2Vuc2UiOnsicmVxIjoxLCJpbXAiOjAsImZhaWwiOjEsImZhaWxNZXNzYWdlIjoidGltZW91dC1fc3RhcnRUaW1lb3V0Rm9yQWRCcmVhayJ9fSwiY3RyeSI6IlZOIiwiZ29vZ2xlQWRNb2RlIjoicGVyc29uYWxpemVkIn0sImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYwNTIxL3NsaW5nLXRvbWIvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDUyMSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiIxMjcuMC4wLjE6NjA1MjEiLCJmcm9tIjoiZmFsbGJhY2sifSwidXJsIjp7InZhbHVlIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX0sImFkRmxvd0luZGV4IjoiLTEiLCJzdWNjZXNzQWRhcHRlciI6Im5vbmUiLCJhZEJsb2NrZXIiOmZhbHNlLCJhZmdCbG9ja2VkIjpmYWxzZSwiaW1hQmxvY2tlZCI6ZmFsc2UsImFkVHlwZSI6InByZXJvbGwiLCJzZXNzaW9uSWQiOiJkM2Q5YTg5Mi1kYzc1LTQwMTQtODU1Mi0wYmE5OWRmZTMyOWUiLCJhZGFwdGVyUmVzdWx0cyI6eyJvcHVzIjp7InJlcSI6MSwiaW1wIjowLCJmYWlsIjoxLCJmYWlsUmVhc29uIjoib3B1cy1lcnJvciIsImZhaWxNZXNzYWdlIjoiW0xDXSBObyByb3V0ZXIgcmVnaXN0ZXJlZCBmb3IgbG9jdXMiLCJmYWlsVHlwZSI6InNlcnZpY2UifSwiaW1hIjp7InJlcSI6MSwiaW1wIjowLCJmYWlsIjoxLCJmYWlsTWVzc2FnZSI6IjMwMyJ9LCJhZHNlbnNlIjp7InJlcSI6MSwiaW1wIjowLCJmYWlsIjoxLCJmYWlsTWVzc2FnZSI6InRpbWVvdXQtX3N0YXJ0VGltZW91dEZvckFkQnJlYWsifX0sImdvb2dsZUFkTW9kZSI6InBlcnNvbmFsaXplZCJ9LCJ1YSI6eyJicm5tIjoiRWRnZSIsImJydnMiOiIxNTAuMC4wLjAiLCJvc25tIjoiV2luZG93cyIsIm9zdnMiOiIxMCIsInciOjEyODAsImgiOjcwNH19",
+      "https://simage4.pubmatic.com/AdServer/SPug?partnerID=156946&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=54881949&p=156946&s=0&a=0&ptask=ALL&np=0&fp=0&rp=1&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://www.temu.com/api/adx/cm/pixel-pubmatic?id=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&gdpr=0&gdpr_consent=&us_privacy=",
+      "https://x.bidswitch.net/sync?ssp=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&us_privacy=&gpp=&gpp_sid=",
+      "https://c1.adform.net/serving/cookie/match?party=14&redirect=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE%20YOUR%20PIGGYBACK%20COOKIES%20HERE]&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://creativecdn.com/cm-notify?pi=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://t.adx.opera.com/pub/sync?pubid=pub8730968190912&gdpr=0&gdpr_consent=",
+      "https://sync.srv.stackadapt.com/sync?nid=11&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&piggybackCookie=1401553778785090542",
+      "https://cms.quantserve.com/pixel/p-5aWVS_roA1dVM.gif?idmatch=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://sync-tm.everesttech.net/upi/pid/b9pj45k4?redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=${TM_USER_ID}&gdpr=0&gdpr_consent=",
+      "https://ib.adnxs.com/getuid?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTc4JnRsPTE1NzY4MDA=&piggybackCookie=$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://ipac.ctnsnet.com/int/cm?exc=14&redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MTEmdGw9MjAxNjA=&piggybackCookie=[user_id]&gdpr=0&gdpr_consent=",
+      "https://sync.crwdcntrl.net/qmap?c=240&tp=PUBM&tpid=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E&gdpr=0&gdpr_consent=",
+      "https://pixel.tapad.com/idsync/ex/receive?partner_id=3371&partner_device_id=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E",
+      "https://dis.criteo.com/dis/usersync.aspx?r=3&p=4&cp=pubmaticUS&cu=1&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&url=https%3A%2F%2Fsimage4.pubmatic.com%2FAdServer%2FSPug%3FpartnerID%3D173010%26test%3Dctest%26partnerUID%3Duid%3A%40%40CRITEO_USERID%40%40",
+      "https://pixel.tapad.com/idsync/ex/receive/check?partner_id=3371&partner_device_id=2026D7B8-DF4E-4CE6-AF89-481904EDCD4E",
+      "https://match.adsrvr.org/track/cmf/generic?ttd_pid=tapad&ttd_tpi=1&ttd_puid=1a612e62-a8c8-46f4-926f-9c66851a4c3d%252C%252C&gdpr=0&gdpr_consent=",
+      "https://simage4.pubmatic.com/AdServer/SPug?partnerID=173010&test=ctest&partnerUID=uid:k-0Ir6MpKWLN83urGy_76rfLgw8Ds_8u-YhfzSBQ&gdpr=0&gdpr_consent=&us_privacy=&gpp=",
+      "https://pixel.tapad.com/idsync/ex/receive?partner_id=1830&partner_device_id=924feaf0-742f-48b7-b422-e9c5de364904&ttd_puid=1a612e62-a8c8-46f4-926f-9c66851a4c3d%2C%2C",
+      "https://x.bidswitch.net/ul_cb/sync?ssp=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&us_privacy=&gpp=&gpp_sid=",
+      "https://dsp-2.presage.io/sync?bidswitch_ssp_id=pubmatic&bsw_custom_parameter=23bf80da-f816-4c85-8e19-070ecff93391&gdpr=0&gdpr_consent=",
+      "https://www.temu.com/api/adx/cm/pixel-opera?adx_uid=b493518e9ddb042a&gdpr=0&gdpr_consent=&us_privacy=&redir=https%3A%2F%2Ft.oa.opera.com%2Fsync%3Fvendor%3D60369%26pubid%3Dpub8730968190912%26gdpr%3D0%26consent%3D%26us_privacy%3D%26custom_data%3D",
+      "https://creativecdn.com/cm-notify?pi=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&tc=1",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNTQmdGw9NDMyMDA%3D&piggybackCookie=PHsQBORQ0dh_Y3VmF5Pd9WLIRDc3h3d_Mnq3aaP26b4&pi=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&tc=1",
+      "https://t.oa.opera.com/sync?vendor=60369&pubid=pub8730968190912&gdpr=0&consent=&us_privacy=&custom_data=",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784719036166&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=570989016&_eu=AAAAAGQC&are=1&cid=1342011700.1784719036&frm=0&pscdl=noapi&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115616985~115938465~115938468~118395335~118897920~118897930~119527020~119773331~119896802&sid=1784719036&sct=1&seg=1&dl=http%3A%2F%2F127.0.0.1%2Fsling-tomb%2Findex.html&dt=Sling%20Tomb&_tu=QA&en=user_engagement&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A60521&ep.parent_domain=127.0.0.1%3A60521&ep.parent_url=http%253A%252F%252F127.0.0.1%253A60521%252Fsling-tomb%252Findex.html&ep.game_id=d7b785e3112f427aaffb4530bd608961&ep.game_slug=sling-tomb&ep.game_title=Sling%20Tomb&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&_et=11127&tfd=13130"
+    ],
+    "blockingIssues": [],
+    "status": "done"
+  }
+}
