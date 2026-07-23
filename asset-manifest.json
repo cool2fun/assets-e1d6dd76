@@ -1358,7 +1358,7 @@
       "contentType": "application/ogg"
     },
     {
-      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "url": "data:text/javascript,void 0",
       "file": "_external/html5.api.gamedistribution.com/main.min.js",
       "bytes": 648851,
       "status": 200,
@@ -1816,7 +1816,7 @@
       "https://dsp-2.presage.io/sync?bidswitch_ssp_id=pubmatic&bsw_custom_parameter=23bf80da-f816-4c85-8e19-070ecff93391&gdpr=0&gdpr_consent= :: net::ERR_ABORTED"
     ],
     "remoteRequests": [
-      "http://html5.api.gamedistribution.com/main.min.js",
+      "data:text/javascript,void 0",
       "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJsdGhyIjoxOCwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoxLCJhcmdzIjp7Im1lc3NhZ2UiOiJsb2FkaW5nIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719035082",
       "https://game.api.gamedistribution.com/game/v4/get/d7b785e3112f427aaffb4530bd608961/?domain=127.0.0.1:60521&v=1.43.58&engn=Windows&localTime=18",
       "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6ImQ3Yjc4NWUzMTEyZjQyN2FhZmZiNDUzMGJkNjA4OTYxIiwidGRtbiI6IjEyNy4wLjAuMTo2MDUyMSIsImRvbW4iOiIxMjcuMC4wLjE6NjA1MjEiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MDUyMS9zbGluZy10b21iL2luZGV4Lmh0bWwiLCJsdGhyIjoxOCwiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoyLCJhcmdzIjp7Im1lc3NhZ2UiOiJsb2FkaW5nIn0sInR0bGUiOiJTbGluZyBUb21iIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784719035085",
